@@ -10,7 +10,7 @@ name: Java CI with Gradle
 on:
   push:
     paths:
-      - '**.js'
+      - '**.java'
   pull_request:
     branches: [ "master" ]
 
