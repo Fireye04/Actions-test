@@ -2,7 +2,7 @@ public class test {
 
     public static void main(String[] args) {
 
-        // TODO be gay
+        // TODO get good
 
         System.out.println("ab");
     }
