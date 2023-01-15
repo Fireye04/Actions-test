@@ -2,8 +2,9 @@ public class test {
 
     public static void main(String[] args) {
 
-        // TODO get good
-
+        /* TODO get mid
+        /does this work
+        */
         System.out.println("ab");
     }
 
