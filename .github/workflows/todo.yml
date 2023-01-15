@@ -13,4 +13,4 @@ jobs:
             - name: "TODO to Issue"
               uses: "alstr/todo-to-issue-action@v4"
               with:
-                  CLOSE_ISSUES: true
+                  CLOSE_ISSUES: false
